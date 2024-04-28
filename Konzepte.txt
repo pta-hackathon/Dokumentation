@@ -1,0 +1,70 @@
+user: istestuser int default 1 (josias 0)
+
+
+Gamification der Aufwandsschätzung
+
+frankfurt@main(hack=>true);
+
+--------------------------
+Game Ideen
+Alle schätzen, wie nah man an dem Median ist
+AnonymJeder muss schätzen
+Konvidence
+Bereiche Schätzen
+Tippen wer hinter welcher Zahl steht
+Zeitdruck
+
+Brainstorming von Subtasks:
+Schwierigkeiten etc. dann Schätzen der Bereiche
+Mehrere Runden, Anpassen der Schätzung
+Runden bis die Schätzungen konvergieren
+Schätzung * Konvidence
+Aufgabe in Baum zerlegen solange bis Aufwand kleiner max
+--------------------------
+
+Ziele von Gamification:
+Spaß / Lockerheit / Lustiger
+Motivieren / alle Einbinden
+Besseres Gesammt-Ergebnis
+Beschleunigen
+Teamgeist fördern
+
+--------------------------
+Multistage-Planning-Poker
+Brainstormin
+Schätzrunden
+Ausreißer raten
+--------------------------
+Komponentenzerlegung
+
+Eine Aufgaben wird so lange in kleinere Teile zerlegt, bis alle Einzelteile einen klaren, kleinen
+Umfang (ohne Unsicherheit) haben. Der Gesamtaufwand der ursprünglichen Aufgabe ergibt sich aus der
+Summe ihrer Teile.
+
+Umsetzung:
+Alle zu schätzenden Tickets werden aufgelistet (Darstellung z.B. als Blume auf einer Wiese)
+Die Tickets/Punkte sind zunächst offen; jedes Teammitglied muss zu jedem offenen Punkt
+sagen, ob er zerteilt werden muss (weil der Aufwand > z.B. 1 Tag ist)
+Es wird diskutiert, wie viele und welche Teilaufgaben nötig sind.
+Darstellung z.b.: aus der Pflanze wird ein Beet mit mehreren Pflanzen.
+Weitere Zerteilung notwendig? Aus dem Beet wird ein Baum mit Ästen und Blättern.
+Die Schätzung ist abgeschlossen, wenn alle Teammitglieder keine zu zerteilenden Aufgaben
+mehr sehen.
+
+Die Darstellung kann variieren: Pflanzen, Obst, Gebäude, Boote, ... und
+kann ggf. auch durch reale Gegenstände erfolgen, falls alle Teammitglieder or Ort sind
+
+Weitere Gamification:
+abschließende grafische Darstellung der Teilnehmer ja nach Abweichung vom Gruppenschnitt...andere
+Werkzeuge, Darstellung als Obst
+--------------------------
+
+Draw-Poker
+
+Verworfen: kaum mehrwerte, passt nicht für IT
+Brainstorming: Jeder schreibt einen Begriff verdect
+Jeder bekommt einen Begriff zu zeichnen
+Jeder bekommt ein Bild zu Schätzen
+Alle schätzen jeden Begriff, bewerten das Bild dazu und der Schätzer des Bilds
+bekommt Punkte für wie nahe am Durchschnit
+Schätzung gesammter Aufwand
